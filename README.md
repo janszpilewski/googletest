@@ -3,6 +3,12 @@
 
 [![Build Status](https://travis-ci.org/google/googletest.svg?branch=master)](https://travis-ci.org/google/googletest)
 
+
+To compile with **C++ Builder** use cmake to generate Borland Makefiles.
+Specify a Clang based compiler (bcc32c or bcc64).
+Execute generated makefile.
+
+
 Welcome to **Google Test**, Google's C++ test framework!
 
 This repository is a merger of the formerly separate GoogleTest and
